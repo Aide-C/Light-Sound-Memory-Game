@@ -4,7 +4,7 @@ Here are two versions of the same game concept. The first version presents the b
 
 ## Description 
 
-The first version is a basic light-sound memory game inspired by a Hasbro toy (linked below), which I created using HTML, CSS, and JavaScript. This initial version lacked both frontend and backend functionality. The second version, found in the CS3398f22Klingons folder, was developed collaboratively during my Software Engineering course. We added backend functionality, account management with an SQL database, a score leaderboard, and additional game levels in this iteration. The folder also details each team member's contributions throughout the semester. Please note that the second version may have some code dependencies that are now deprecated. 
+The first version is a basic light-sound memory game inspired by the Hasbro toy (linked below), which I created using HTML, CSS, and JavaScript. This initial version lacked both frontend and backend functionality. The second version, found in the CS3398f22Klingons folder, was developed collaboratively during my Software Engineering course. We added backend functionality, account management with an SQL database, a score leaderboard, and additional game levels in this iteration. The folder also details each team member's contributions throughout the semester. Please note that the second version may have some code dependencies that are now deprecated. 
 
 ## Getting Started
 
